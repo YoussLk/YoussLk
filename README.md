@@ -1,8 +1,8 @@
 # Hi, I'm Youssef 👋🏾 👩🏾‍💻
 
-[![Linkedin: Youssef](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssef-lakrim-664923266/)](https://www.linkedin.com/in/tanyarajhans/)
+[![Linkedin: Youssef](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssef-lakrim-664923266/)](https://www.linkedin.com/in/youssef-lakrim-664923266/)
 ![GitHub followers](https://img.shields.io/github/followers/tanyarajhans?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=tanyarajhans7&color=brightgreen">  
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=YoussLk&color=brightgreen">  
 
 ## 👨🏻‍💻 &nbsp;About Me
 
@@ -10,10 +10,8 @@
 
 🎓 &nbsp;I'm currently studying UI/UX Designer, Full stack developement at Orange Digital Center, Rabat.\
 💡 &nbsp;Some technologies I enjoy working with include MongoDb, ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring TensorFlow and machine Learning.\
-🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
+🌱 &nbsp;I'm on track for learning more about IoT, Systems Design, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at yousseflakrim04@gmail.com! I'll try to respond as soon as I can.
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
