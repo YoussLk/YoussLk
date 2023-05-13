@@ -1,6 +1,6 @@
 # Hi, I'm Youssef 👋🏾 👩🏾‍💻
 
-[![Linkedin: Youssef](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssef-lakrim-664923266/)](https://www.linkedin.com/in/youssef-lakrim-664923266/)
+[![Linkedin: Youssef](https://img.shields.io/badge/-Youssef-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssef-lakrim-664923266/)](https://www.linkedin.com/in/youssef-lakrim-664923266/)
 ![GitHub followers](https://img.shields.io/github/followers/tanyarajhans?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=YoussLk&color=brightgreen">  
 
